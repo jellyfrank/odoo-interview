@@ -42,6 +42,6 @@
 
 1. Environment对象的作用是什么？
 
-2. odoo默认的Registry的LRU大小是多少？
+2. Registry是什么？默认的Registry的LRU大小是多少？
 
 3. odoo的多workder模式如何开启？单worker和多worker的运行机制有什么不同？
