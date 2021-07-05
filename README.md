@@ -15,6 +15,7 @@
 6. 如何将某个字段设置为提权访问(admin)?
 
 
+
 ## 中级
 
 1. 什么是开发者模式？开发者模式中的三种模式的区别是什么？
@@ -27,6 +28,20 @@
 
 5. 如何将自定义的widget添加到系统中？
 
+6. csrf_token是什么？有什么作用？是如何生成的？
+
+7. 为什么jsonrpc中不用传csrf_token?
+
+8. Session是如何存储的？odoo是如何判断Session是否有效的？
+
+9. 配置文件中的limit_memory_soft和limit_memory_hard区别是什么？
+
+10. 如何更新系统中全部的模块？其原理是怎样的？
+
 ## 高级
 
 1. Environment对象的作用是什么？
+
+2. odoo默认的Registry的LRU大小是多少？
+
+3. odoo的多workder模式如何开启？单worker和多worker的运行机制有什么不同？
